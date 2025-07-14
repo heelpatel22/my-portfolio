@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information. It's designed with a modern, responsive layout and includes engaging animations and a glassy, futuristic design.
 
 ## 🔗 Live Preview
-[View Portfolio Website]((https://heelpatel22.github.io/my-portfolio/)) <!-- Replace with actual deployed link if available -->
+[View Portfolio Website]([portfolio-link](https://heelpatel22.github.io/my-portfolio/)) <!-- Replace with actual deployed link if available -->
 
 ---
 
